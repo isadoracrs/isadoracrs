@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Isadora! ✨
+
+I work with Android development, currently studying Java and Angular to evolve into a more well-rounded developer.
+
+[Let's connect!](https://www.linkedin.com/in/isadoracastror/)
 
 <!--
 **isadoracrs/isadoracrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
