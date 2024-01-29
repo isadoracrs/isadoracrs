@@ -1,6 +1,6 @@
 ### Hello, I'm Isadora! ✨
 
-I work with Android development, currently studying Jetpack Compose to evolve into a more well-rounded developer.
+I work in Android development, currently studying Jetpack Compose to evolve into a more well-rounded developer.
 
 [Let's connect!](https://www.linkedin.com/in/isadoracastror/)
 
